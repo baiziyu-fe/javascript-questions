@@ -203,7 +203,7 @@ console.log(d.greeting)
 
 ---
 
-###### 7. 输出是什么？
+###### ✅7. 输出是什么？
 
 ```javascript
 let a = 3
